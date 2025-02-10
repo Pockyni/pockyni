@@ -1,16 +1,34 @@
-## Hi there 👋
+<h3 align="center"> I'm Nicole Albuquerque. ˶ᵔ ᵕ ᵔ˶₊˚✧ </h3>
+<p align="center"> Estudante de Análise de Sistemas </p>
 
-<!--
-**Pockyni/pockyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Sobre mim</div>  
+<div align="center">
+  🫧 <strong>SoftSkills:</strong> Criativa, simpática e trabalho em grupo  
+  <br>
+  🌿 <strong>Hobbies:</strong> Café, filmes, games, culinária e tecnologia  
+  <br>
+<p>
+</p>
+    
+               f"Curiosidade: ☕️ Barista nas horas vagas. 𓍢ִ໋✧˚ ༘ ⋆   {self.curiosity}."
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## ‧₊˚ ⋅ Tecnologias que uso  
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
+
+
+</p>
+
+## ‧₊˚ ⋅ Contato  
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
