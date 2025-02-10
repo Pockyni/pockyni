@@ -1,5 +1,6 @@
+
 <h3 align="center"> I'm Nicole Albuquerque. ˶ᵔ ᵕ ᵔ˶₊˚✧ </h3>
-<p align="center"> Estudante de Análise de Sistemas </p>
+<h4 align="center"> Estudante de Análise de Sistemas </h4>
 
 ## <div align="center">⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Sobre mim</div>  
 <div align="center">
