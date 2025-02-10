@@ -1,9 +1,11 @@
 
+<div align="center">
 <h3 align="center"> Eu sou Nicole Albuquerque. ˶ᵔ ᵕ ᵔ˶₊˚✧ </h3>
-<h4 align="center"> Estudante de Análise de Sistemas </h4>
+<strong>  Estudante de Analise e Desenvolvimento de Sistemas
 
 ## <div align="center">⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Sobre mim</div>  
 <div align="center">
+    <br>
   🫧 <strong>SoftSkills:</strong> Criativa, simpática e trabalho em grupo  
   <br>
   🌿 <strong>Hobbies:</strong> Café, filmes, games, culinária e tecnologia  
