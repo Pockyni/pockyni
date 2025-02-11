@@ -8,12 +8,12 @@
     <br>
   🫧 <strong>SoftSkills:</strong> Criativa, simpática, lógica e comprometida a aprender
   <br>
-  🌿 <strong>Hobbies:</strong> Café, filmes, games, culinária e tecnologia  
+  🌿 <strong>Hobbies:</strong> Café, filmes, games, culinária e tecnologia
   <br>
 <p>
 </p>
     
-               f"Curiosidade: ☕️ Barista nas horas vagas. 𓍢ִ໋✧˚ ༘ ⋆   {self.curiosity}."
+               f"Curiosidade: ☕️Preparo cafés Latte Arts nas horas vagas. 𓍢ִ໋✧˚ ༘ ⋆   {self.curiosity}."
 
 
 
