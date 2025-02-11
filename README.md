@@ -1,19 +1,19 @@
 
 <div align="center">
-<h3 align="center"> Olá sou a Nicole. ˶ᵔ ᵕ ᵔ˶₊˚✧ </h3>
-<strong>  Estudante de Analise e Desenvolvimento de Sistemas
+<h3 align="center"> Hello, I'm Nicole. ˶ᵔ ᵕ ᵔ˶₊˚✧ </h3>
+<strong>  Systems Analysis and Development Student
 
 ## <div align="center">⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Sobre mim</div>  
 <div align="center">
     <br>
-  🫧 <strong>SoftSkills:</strong> Criativa, simpática, lógica e comprometida a aprender
+  🫧 <strong>SoftSkills:</strong> Creative, friendly, logical and committed to learning
   <br>
-  🌿 <strong>Hobbies:</strong> Café, filmes, games, culinária e tecnologia
+  🌿 <strong>Hobbies:</strong> Coffee, movies, games, cooking and technology
   <br>
 <p>
 </p>
     
-               f"Curiosidade: ☕️Barista Latte Art nas horas vagas. 𓍢ִ໋✧˚ ༘ ⋆   {self.curiosity}."
+               f"Curiosidade: ☕️Barista Latte Art in her spare time. 𓍢ִ໋✧˚ ༘ ⋆   {self.curiosity}."
 
 
 
