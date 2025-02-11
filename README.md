@@ -6,7 +6,7 @@
 ## <div align="center">⋅˚₊‧ ୨୧ ‧₊˚ ⋅ Sobre mim</div>  
 <div align="center">
     <br>
-  🫧 <strong>SoftSkills:</strong> Criativa, simpática e trabalho em grupo  
+  🫧 <strong>SoftSkills:</strong> Criativa, simpática, lógica e comprometimento. 
   <br>
   🌿 <strong>Hobbies:</strong> Café, filmes, games, culinária e tecnologia  
   <br>
