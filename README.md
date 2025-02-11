@@ -31,7 +31,7 @@
 
 ## ‧₊˚ ⋅ Contato  
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil">
+  <a href="https://www.linkedin.com/in/nicole-alves-678628283/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
