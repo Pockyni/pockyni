@@ -1,7 +1,7 @@
 
 <div align="center">
 <h3 align="center"> Hello, I'm Nicole. ˶ᵔ ᵕ ᵔ˶₊˚✧ </h3>
-<strong>  Systems Analysis and Development Student
+<strong>  Computer Science Student 
 
 ## <div align="center">About me ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ </div>  
 <div align="center">
