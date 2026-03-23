@@ -13,7 +13,7 @@
 <p>
 </p>
     
-               f"Curiosidade: ☕️Barista Latte Art in her spare time. 𓍢ִ໋✧˚ ༘ ⋆   {self.curiosity}."
+                𓍢ִ໋✧˚ ༘ ⋆   {self.curiosity}."
 
 
 
